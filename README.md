@@ -7,7 +7,7 @@
 Tudo certo por enquanto!
 
 ## 🚀 Deploy
-https://decker-xi.vercel.app/
+https://challenge-fr-001-linktree-hub.vercel.app/
 
 ## 🖼️ Demonstração
 ![demo](https://github.com/zaqueu-1/challenge-FR-001-linktree-hub/blob/main/github/demo.png)
